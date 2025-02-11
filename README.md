@@ -1,1 +1,1 @@
-# Number-Sorter
+This project is for studying purpose. I will make a copy of what i am studying in freeCodeCamp to help me memorize and learn things more efficiently.
